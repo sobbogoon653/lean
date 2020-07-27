@@ -1,0 +1,23 @@
+
+/**********    Headere Fonts h4  roboto *********/
+@font-face {
+  font-family: roboto;
+  src: url(fonts/Roboto-Bold.ttf), url(fonts/Roboto-Bold.woff), url(fonts/Roboto-Bold.eot);
+}
+
+/**********    Headere Fonts h2  anTOn *********/
+
+@font-face {
+  font-family: anTOn;
+  src: url(fonts/anton-webfont.ttf), url(fonts/anton-webfont.woff), url(fonts/anton-webfont.eot);
+}
+/**********    Headere Fonts p  robotoLight *********/
+@font-face {
+  font-family: robotoLight;
+  src: url(fonts/Roboto-Light.ttf);
+}
+/**********    Headere Fonts h2  osWaldDemiBold *********/
+@font-face {
+  font-family: osWaldDemiBold;
+  src: url(fonts/Oswald-DemiBold.ttf), url(fonts/oswald-demibold-webfont.woff), url(fonts/Oswald-DemiBold.eot);
+}
